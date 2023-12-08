@@ -122,3 +122,11 @@ The testing set shows an 11.48% loss which is a comparable loss rate. This illus
 
 Future development will focus on increasing accuracy of the model through testing variations in data processing as well as the hyperparameters for the above network architecture
 
+
+# License
+
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
+
+### Acknowledgments
+
+- Project inspired by [https://www.coursera.org/learn/machine-learning/](https://www.coursera.org/learn/machine-learning)https://www.coursera.org/learn/machine-learning
